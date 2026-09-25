@@ -1,7 +1,7 @@
 
 # Yoga108 website
 
-Simple static site scaffold for the Yoga108 app. Replace the placeholder assets in `images/` with app screenshots and update store links in `index.html` if needed.
+Simple static site scaffold for the [www.yoga108app.com](https://www.yoga108app.com) Replace the placeholder assets in `images/` with app screenshots and update store links in `index.html` if needed.
 
 Quick preview:
 
